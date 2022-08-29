@@ -1,0 +1,25 @@
+*{
+    font-family: 'DynaPuff', cursive;
+}
+
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 60px;
+}
+
+.row{
+    margin: 6px 0px;
+}
+
+.row input{
+    font-size: 16px;
+    padding: 16px 10px;
+    margin: 0px;
+    border: 2px solid grey;
+    border-radius: 4px;
+}
